@@ -9,4 +9,6 @@
     - [x] criar uma header
   - [x] criar página de erro 
     - [x] criar css e estilizar
+- [x] criar contex
+- [ ] fazer a integração com o api
 
